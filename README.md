@@ -1,5 +1,5 @@
-# Mugilan R
-**Final-Year Electronics & Communication Engineering Student | Embedded Systems & RISC-V Verification Enthusiast**
+# <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=36&color=1A73E8&width=400&height=50&lines=MUGILAN+R" alt="MUGILAN R" />
+**Final-Year Electronics & Communication Engineering Student**
 
 <p align="left">
   <a href="mailto:mugilan2027@gmail.com"><img src="https://img.shields.io/badge/Email-mugilan2027%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email"></a>

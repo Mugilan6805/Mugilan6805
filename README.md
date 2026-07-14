@@ -22,16 +22,13 @@ I am a quick learner with a passion for technological innovation and am seeking 
 
 ---
 
-## 🛠 Tech Stack & Tools
+## 🛠 Tech Stack & Skills
 
-| Category | Technologies |
-| :--- | :--- |
-Programming Languages: C, C++, Python, JavaScript, HTML, CSS, Basic Assembly Programming
-
-Tools & Software: MATLAB, VS Code, Vivado, Cadence Virtuoso, Cisco Packet Tracer, Arduino IDE, CST Studio Suite, EasyEDA
-
-Professional Skills: Problem Solving, Analytical Thinking, Team Collaboration, Time Management, Adaptability
-
+| Category                  | Technologies                                                                                                           |
+| :------------------------ | :--------------------------------------------------------------------------------------------------------------------- |
+| **Programming Languages** | `C`, `C++`, `Python`, `JavaScript`, `HTML`, `CSS`, `Basic Assembly Programming`                                        |
+| **Tools & Software**      | `MATLAB`, `VS Code`, `Vivado`, `Cadence Virtuoso`, `Cisco Packet Tracer`, `Arduino IDE`, `CST Studio Suite`, `EasyEDA` |
+| **Professional Skills**   | `Problem Solving`, `Analytical Thinking`, `Team Collaboration`, `Time Management`, `Adaptability`                      |
 
 ---
 

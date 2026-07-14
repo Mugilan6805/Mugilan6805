@@ -3,20 +3,22 @@
 
 <p align="left">
   <a href="mailto:mugilan2027@gmail.com"><img src="https://img.shields.io/badge/Email-mugilan2027%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email"></a>
-  <a href="tel:+919345857008"><img src="https://img.shields.io/badge/Phone-%2B91%2093458%2057008-green?style=flat-square" alt="Phone"></a>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+  
+  <a href="https://www.linkedin.com/in/mugilan-r-13074a318"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-Profile-lightgrey?style=flat-square&logo=github" alt="GitHub"></a>
 </p>
 
 ---
 
 ## 💫 About Me
-I am a final-year **Electronics and Communication Engineering** student at the **College of Engineering, Guindy (CEG), Anna University**. I have a strong foundation in programming and engineering principles, analytical thinking, and hands-on experience in:
-- **Embedded Firmware & IoT:** Developing robust BLE/LoRa applications using ESP32 platforms.
-- **Hardware Verification:** Verifying RISC-V cores and peripheral IP using Cocotb and RTL simulation.
-- **Machine Learning & Software:** Implementing text classification models and building responsive web applications.
+I am a final-year **Electronics and Communication Engineering** student at the **College of Engineering, Guindy (CEG), Anna University** with a strong foundation in programming, engineering principles, analytical thinking, and problem-solving. I have hands-on experience in:
 
-I am a quick learner passionate about technological innovation, seeking opportunities to contribute to advanced hardware, embedded systems, and verification engineering teams.
+* **Embedded Firmware & IoT:** Developing BLE and LoRa-based applications using ESP32 platforms.
+* **Verification & Simulation:** Developing Cocotb-based testbenches, performing RTL simulations, and validating peripheral functionality through waveform analysis.
+* **Machine Learning & Software:** Building text classification models and developing responsive web applications.
+
+I am a quick learner with a passion for technological innovation and am seeking opportunities to contribute to embedded systems, verification, and emerging technology domains.
+
 
 ---
 
@@ -24,12 +26,12 @@ I am a quick learner passionate about technological innovation, seeking opportun
 
 | Category | Technologies |
 | :--- | :--- |
-| **Programming Languages** | `C`, `C++`, `Python`, `JavaScript`, `HTML`, `CSS`, `Assembly (RV32I)` |
-| **Hardware & Embedded** | `ESP32-S3`, `Arduino IDE`, `LoRa`, `BLE`, `Raspberry Pi`, `NFC` |
-| **EDA & CAD Tools** | `Vivado`, `Cadence (Spectre/Virtuoso)`, `CST Studio Suite`, `EasyEDA` |
-| **Simulation & Verification** | `Cocotb`, `RTL Simulation`, `MATLAB` |
-| **Networking & Protocols** | `UART`, `MQTT`, `Cisco Packet Tracer` |
-| **Developer Tools** | `VS Code`, `Git`, `GitHub` |
+Programming Languages: C, C++, Python, JavaScript, HTML, CSS, Basic Assembly Programming
+
+Tools & Software: MATLAB, VS Code, Vivado, Cadence Virtuoso, Cisco Packet Tracer, Arduino IDE, CST Studio Suite, EasyEDA
+
+Professional Skills: Problem Solving, Analytical Thinking, Team Collaboration, Time Management, Adaptability
+
 
 ---
 
@@ -85,6 +87,4 @@ I am a quick learner passionate about technological innovation, seeking opportun
 
 ---
 
-<p align="center">
-  Generated for Mugilan's Professional Profile.
-</p>
+
